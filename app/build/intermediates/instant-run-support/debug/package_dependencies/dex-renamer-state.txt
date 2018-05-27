@@ -1,0 +1,4 @@
+#Sat May 26 18:37:25 CST 2018
+base.0=D\:\\Cines35mm\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\11
+path.0=classes.dex
+renamed.0=classes.dex
